@@ -1,0 +1,26 @@
+.MovieCard {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 20px;
+}
+
+.MovieCard img {
+    border-radius: 20px;
+}
+
+.MovieCard span {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+
+.MovieCard .rating {
+    display: flex;
+    align-items: center;
+    color: #ffc400;
+}
+
+.MovieCard .rating span {
+    margin: 10px;
+}
