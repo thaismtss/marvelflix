@@ -1,0 +1,24 @@
+.Button {   
+    cursor: pointer;
+    outline: none;
+    border: none;
+    background-color: red;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 10px;        
+}
+
+.Button.moreInfo { 
+    margin: auto;
+    max-width: 120px;
+    margin-top: -10px;
+    height: 30px;               
+}
+
+.Button.moreMovies {
+    padding: 20px;
+    margin: auto;
+    margin-bottom: 50px;
+    display: flex;
+}
