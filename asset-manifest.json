@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.e797d5a0.css",
-    "main.js": "/static/js/main.f8946d83.js",
-    "index.html": "/index.html",
-    "main.e797d5a0.css.map": "/static/css/main.e797d5a0.css.map",
-    "main.f8946d83.js.map": "/static/js/main.f8946d83.js.map"
+    "main.css": "/marvelflix/static/css/main.e797d5a0.css",
+    "main.js": "/marvelflix/static/js/main.f8946d83.js",
+    "index.html": "/marvelflix/index.html",
+    "main.e797d5a0.css.map": "/marvelflix/static/css/main.e797d5a0.css.map",
+    "main.f8946d83.js.map": "/marvelflix/static/js/main.f8946d83.js.map"
   },
   "entrypoints": [
     "static/css/main.e797d5a0.css",
