@@ -7,7 +7,7 @@ const getMoviesMcu = page => api.get("discover/movie", {
     params: { 
         api_key: process.env.REACT_APP_API_KEY,
         language: 'pt-BR',
-        without_companies: 'mcu',
+        with_companies: 420,
         page: page
      } 
   });
